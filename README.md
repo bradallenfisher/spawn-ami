@@ -1,3 +1,3 @@
 #SPAWN AMI
 
-The Amazon Machine Image that runs spawn starts instances with.
+The Amazon Machine Image SPAWN starts instances with.
